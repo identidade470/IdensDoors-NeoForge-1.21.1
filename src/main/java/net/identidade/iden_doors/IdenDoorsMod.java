@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package net.identidade.iden_doors;
 
 import org.slf4j.Logger;
 
